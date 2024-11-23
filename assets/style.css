@@ -11,6 +11,11 @@ nav {
   justify-content: space-between;
   padding: 34px 50px;
 }
+footer{
+  text-align: center;
+  background-color: aqua;
+  color: black;
+}
 
 ul {
   list-style-type: none;
